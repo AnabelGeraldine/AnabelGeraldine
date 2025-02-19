@@ -37,5 +37,5 @@ Welcome to my portfolio, where I showcase my projects!
 - **Image Processing and Spatial Data Analysis**: Skilled in handling complex image data and performing spatial data analysis.
 
 ## Connect with me!
-[LinkedIn](#) 
+[LinkedIn](https://www.linkedin.com/in/anabelgeraldine/) 
 
