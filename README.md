@@ -5,7 +5,7 @@
 Hello I'm Anabel! a penultimate year student at the University of Sydney, pursuing a dual major in Data Science and Financial Mathematics & Statistics, set to graduate in mid 2025. My academic and project experiences have built my analytical reasoning, machine learning, and statistical analysis skills, equipping me to leverage mathematical and computational expertise to drive innovation and business success in various fields especially in financial technology.
 
 ### 📄 Resume
-Here is a quick link to my [resume](#)!
+Here is a quick link to my [resume](https://github.com/AnabelGeraldine/Resume)!
 
 ### 🧷 Projects
 Welcome to my portfolio, where I showcase my projects!
