@@ -8,7 +8,7 @@ Hello I'm Anabel! a penultimate year student at the University of Sydney, pursui
 Here is a quick link to my [resume](https://github.com/AnabelGeraldine/Resume)!
 
 ### 🧷 Projects
-Welcome to my portfolio, where I showcase my [projects](https://github.com/AnabelGeraldine/Projects)!
+Welcome to my portfolio, Click[here](https://github.com/AnabelGeraldine/Projects) to see my projects!
 
 ### 🎓 Certification
 [IBM Professional Data Science Certificate](https://github.com/AnabelGeraldine/IBM_ProfessionalDataScience_Certificate)
