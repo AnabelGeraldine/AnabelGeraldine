@@ -9,6 +9,7 @@ Welcome to my portfolio, Click [here](https://github.com/AnabelGeraldine/Project
 
 ### 🎓 Certification
 [IBM Professional Data Science Certificate](https://github.com/AnabelGeraldine/IBM_ProfessionalDataScience_Certificate)
+[Microsoft Power BI Data Analyst Certificate](https://github.com/AnabelGeraldine/Microsoft-Power-BI-Certificate)
 
 ### 💻 Technical Skills & Tool
 
