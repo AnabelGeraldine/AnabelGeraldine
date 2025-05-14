@@ -41,4 +41,5 @@ Welcome to my portfolio, Click [here](https://github.com/AnabelGeraldine/Project
 
 ## Connect with me!
 [LinkedIn](https://www.linkedin.com/in/anabelgeraldine/) 
+Reach me at [anabelgeraldine24@gmail.com](anabelgeraldine24@gmail.com)
 
