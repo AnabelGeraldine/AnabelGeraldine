@@ -2,7 +2,7 @@
 
 <img width="938" alt="Screen Shot 2025-02-19 at 22 55 50" src="https://github.com/user-attachments/assets/7a3a12f6-2dd6-487c-a6ec-4ee843aefab9" />
 
-Hello I'm Anabel! a penultimate year student at the University of Sydney, pursuing a dual major in Data Science and Financial Mathematics & Statistics, set to graduate in mid 2025. My academic and project experiences have built my analytical reasoning, machine learning, and statistical analysis skills, equipping me to leverage mathematical and computational expertise to drive innovation and business success in various fields especially in financial technology.
+Hello I'm Anabel! I'm a final-year student at the University of Sydney, majoring in Data Science and Financial Mathematics. Through a combination of academic projects and industry internships, I’ve gained hands-on experience applying data analytics and statistical modeling to real-world problems. I’m genuinely passionate about leveraging data to drive insight and impact, and I’m eager to continue growing professionally within data-driven and innovation-focused environments.
 
 ### 🧷 Projects
 Welcome to my portfolio, Click [here](https://github.com/AnabelGeraldine/Projects) to see my projects!
@@ -12,11 +12,12 @@ Welcome to my portfolio, Click [here](https://github.com/AnabelGeraldine/Project
 
 ### 💻 Technical Skills & Tool
 
-#### Languages
-- **Python**: Advanced skills in programming, data manipulation, and machine learning.
-- **R-studio**: Proficient in statistical analysis, modeling, and data visualization.
-- **SQL**: Skilled in data extraction and manipulation.
-- **SPSS**: Experienced in statistical analysis software for complex data investigations.
+#### Languages & Tools  
+- **Python** (Pandas, NumPy, Scikit-learn, SciPy, Jupyter)  
+- **SQL** (PostgreSQL, SparkSQL, Databricks)  
+- **R** (RStudio, ggplot2, time series modeling)  
+- **SPSS**, **Excel (Advanced)**  
+- **Power BI**, **Tableau**, **Git**
 
 #### Mathematics
 - **Statistical and Mathematical Analysis**: Proficient in statistical tests, distributions, stochastic processes, calculus, multivariable calculus, and linear algebra.
